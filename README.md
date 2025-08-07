@@ -47,11 +47,7 @@
 <br>
 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dzikrisee&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzikrisee&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhamadafat&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 <br>
 🚀 Current Projects
