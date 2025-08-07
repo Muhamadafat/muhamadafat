@@ -23,14 +23,13 @@
   <img width="60" src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" style="margin: 10px;" />
   <img width="60" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" style="margin: 10px;" />
   <img width="60" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" alt="Figma" style="margin: 10px;" />
-  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CorelDRAW_Logo.png/600px-CorelDRAW_Logo.png" alt="CorelDRAW" style="margin: 10px;" />
+  <img width="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Ficon-free-corel-draw-coreldraw-logo-cdr-adobe-illustrator-png%2FvWJvDUH2&psig=AOvVaw2Fh7i0ybZZ4htN-M-_4HRA&ust=1754686358138000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCxqZzK-Y4DFQAAAAAdAAAAABAE" alt="CorelDRAW" style="margin: 10px;" />
 
   
   
   
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png" alt="Linux" style="margin: 10px;" />
   <img width="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" style="margin: 10px;" />
-  <img width="60" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" style="margin: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js" style="margin: 10px;" />
   <img width="60" src="https://www.notion.so/cdn-cgi/image/format=auto,width=1920,quality=100/front-static/shared/icons/notion-app-icon-3d.png" alt="Notion" style="margin: 10px;" />
 </div>
