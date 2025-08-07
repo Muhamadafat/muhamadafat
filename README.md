@@ -1,6 +1,6 @@
 👋 Hi there, I'm Muhamad Alfath Septian!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&height=100&lines=S1+Teknik+Informatika;Universitas+Pasundan;Web+Developer;IoT+Enthusiast;Drone+FPV+Pilot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&height=100&lines=S1+Teknik+Informatika;Universitas+Pasundan;Web+Developer;Design+Illustrator" alt="Typing SVG" />
 </div>
 💻 About Me
 
@@ -34,7 +34,7 @@
   <img width="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" style="margin: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js" style="margin: 10px;" />
   <img width="60" src="https://www.notion.so/cdn-cgi/image/format=auto,width=1920,quality=100/front-static/shared/icons/notion-app-icon-3d.png" alt="Notion" style="margin: 10px;" />
-<img width="60" src="https://i.imgur.com/WI6zZps.png" alt="Blocknote" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
+<img width="60" src="https://www.blocknotejs.org/favicon.svg" alt="Blocknote" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
 
 
 </div>
