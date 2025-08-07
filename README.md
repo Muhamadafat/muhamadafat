@@ -23,7 +23,7 @@
   <img width="60" src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" style="margin: 10px;" />
   <img width="60" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" style="margin: 10px;" />
   <img width="60" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" alt="Figma" style="margin: 10px;" />
-<img width="60" src="https://img.favpng.com/10/7/2/coreldraw-logo-cdr-adobe-illustrator-png-favpng-AnAkZqT9n1m1NfEw7rwRV8kt2.jpg" alt="CorelDRAW" style="margin: 10px;" />
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/97/LOGO-CORELDRAW-GRAPHICS-SUITE.svg" alt="CorelDRAW" style="margin: 10px;" />
 
 
 
