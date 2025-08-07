@@ -23,7 +23,8 @@
   <img width="60" src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" style="margin: 10px;" />
   <img width="60" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" style="margin: 10px;" />
   <img width="60" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" alt="Figma" style="margin: 10px;" />
-  <img width="60" src="https://seeklogo.com/images/C/coreldraw-logo-2871394B44-seeklogo.com.png" alt="CorelDRAW" style="margin: 10px;" />
+ <img width="60" src="https://i.imgur.com/Ga3n3ob.png" alt="CorelDRAW" style="margin: 10px;" />
+
 
   
   
