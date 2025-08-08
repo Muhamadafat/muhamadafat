@@ -30,13 +30,13 @@
   <img width="60" src="https://laravel-livewire.com/img/twitter.png" alt="Livewire" style="margin: 10px;" />
   <img width="60" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" style="margin: 10px;" />
   <img width="60" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" alt="Figma" style="margin: 10px;" />
-  <img width="60" src="https://i.imgur.com/Ga3n3ob.png" alt="CorelDRAW" style="margin: 10px;" />
+  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/97/LOGO-CORELDRAW-GRAPHICS-SUITE.svg" alt="CorelDRAW" style="margin: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" style="margin: 10px;" />
   <img width="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" style="margin: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" style="margin: 10px;" />
   <img width="60" src="https://www.notion.so/cdn-cgi/image/format=auto,width=1920,quality=100/front-static/shared/icons/notion-app-icon-3d.png" alt="Notion" style="margin: 10px;" />
   <img width="60" src="https://www.blocknotejs.org/favicon.svg" alt="Blocknote" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
-  <img width="60" src="https://i.imgur.com/MR7j9qV.png" alt="Procreate" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
+  <img width="60" src="https:https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" alt="Procreate" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
 </div>
 
 ---
