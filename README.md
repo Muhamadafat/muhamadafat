@@ -37,7 +37,7 @@
   <img width="60" src="https://www.notion.so/cdn-cgi/image/format=auto,width=1920,quality=100/front-static/shared/icons/notion-app-icon-3d.png" alt="Notion" style="margin: 10px;" />
   <img width="60" src="https://www.blocknotejs.org/favicon.svg" alt="Blocknote" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
   <img width="60" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" alt="Procreate" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
-  <img width="60" src="https://supabase.com/_next/image?url=%2Fimages%2Flogos%2Fsupabase-logo-icon.png&w=256&q=75" alt="Supabase" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
+  <img width="60" src="https://opensourcealternatives.org/images/supabase.webp" alt="Supabase" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
 
 </div>
 
