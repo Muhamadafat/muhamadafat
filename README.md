@@ -1,6 +1,6 @@
 👋 Hi there, I'm Muhamad Alfath Septian!
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&height=100&lines=Frontend+Engineer;Retro+Pixel+Lover;Typescript+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&height=100&lines=S1+Teknik+Informatika;Universitas+Pasundan;Web+Developer;Design+Illustrator" alt="Typing SVG" />
 </div>
 💻 About Me
 
