@@ -36,7 +36,7 @@
   <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" style="margin: 10px;" />
   <img width="60" src="https://www.notion.so/cdn-cgi/image/format=auto,width=1920,quality=100/front-static/shared/icons/notion-app-icon-3d.png" alt="Notion" style="margin: 10px;" />
   <img width="60" src="https://www.blocknotejs.org/favicon.svg" alt="Blocknote" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
-  <img width="60" src="https:https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" alt="Procreate" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
+  <img width="60" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Procreate_icon.png" alt="Procreate" style="margin: 10px; background-color: #222; padding: 6px; border-radius: 10px;" />
 </div>
 
 ---
