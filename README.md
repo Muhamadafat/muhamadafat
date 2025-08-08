@@ -24,6 +24,7 @@
   <img width="60" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" style="margin: 10px;" />
   <img width="60" src="https://cdn.sanity.io/images/599r6htc/regionalized/5094051dac77593d0f0978bdcbabaf79e5bb855c-1080x1080.png?w=540&q=75&fit=max&auto=format&dpr=1.5" alt="Figma" style="margin: 10px;" />
 <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/97/LOGO-CORELDRAW-GRAPHICS-SUITE.svg" alt="CorelDRAW" style="margin: 10px;" />
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" style="margin: 10px;" />
 
 
 
