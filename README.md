@@ -6,7 +6,7 @@
 
 🎓 Currently pursuing S1-Teknik Informatika at Universitas Pasundan
 🔭 Working on "AuristellaSupply" - Design Illustrator
-🌱 Always learning and improving my skills in Web Development, Illustrator
+🌱 Always learning and improving my skills in Web Development, Design Illustrator
 💡 Passionate about building interactive and user-friendly applications
 🚁 When not coding, you'll find me in PointBlank!
 
